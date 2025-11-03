@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Editor",
+  "description": "Edit your images and clean up product photos by simply typing instructions. This app uses AI to understand your image and your requests, then generates a new, edited version.",
+  "requestFramePermissions": []
+}
